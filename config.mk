@@ -18,8 +18,6 @@ include $(call all-subdir-makefiles,$(LOCAL_PATH))
 PRODUCT_PACKAGES += \
     AdAway \
     Turbo \
-    Launcher3 \
-    HealthService \
     NexusLauncher \
     Wallpaper \
     su
